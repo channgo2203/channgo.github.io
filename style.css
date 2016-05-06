@@ -82,11 +82,7 @@ h2 {
     font-size: 160%;
     padding: 0.2em 0.4em;
     margin: 2em 0 1em 0;
-/*
-    border-left: 1px solid #99f;
-    border-top: 1px solid #99f;
-    background-color: #e8e8ff;
-*/
+
     border-left: 1px solid #c99;
     border-top: 1px solid #c99;
     background-color: #fff0f0;
@@ -98,11 +94,7 @@ h3 {
     font-size: 115%;
     padding: 0.2em 0.4em;
     margin: 2em 1em 1em 1em;
-/*
-    border-left: 1px dotted #aaf;
-    border-top: 1px dashed #aaf;
-    background-color: #ededff;
-*/
+
     border-left: 1px solid #3a3;
     border-top: 1px solid #3a3;
     background-color: #e0f8d0;
@@ -112,11 +104,7 @@ h3 {
 h4 {
     margin: 2em 2em .5em 1.5em;
     padding: 0 0 0 0.5em;
-/*
-    border-top: 1px dashed #aaf;
-    border-left: 1px dotted #aaf;
-    background-color:#e8e8e8;
-*/
+
     border-top: 1px solid #bb8;
     border-left: 1px solid #bb8;
     background-color:#f0f0b0;
