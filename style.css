@@ -84,8 +84,8 @@ h2 {
     padding: 0.2em 0.4em;
     margin: 2em 0 1em 0;
 
-   	border-left: 1px solid #c99;
-    border-top: 1px solid #c99;
+   	border-left: 1px solid #4b3832;
+    border-top: 1px solid #4b3832;
     background-color: white;
     color: #312;
 }
@@ -96,8 +96,8 @@ h3 {
     padding: 0.2em 0.4em;
     margin: 2em 1em 1em 1em;
 		
-		border-left: 1px solid #3a3;
-    border-top: 1px solid #3a3;
+		border-left: 1px solid #4b3832;
+    border-top: 1px solid #4b3832;
     background-color: white;
     color: #030;
 }
@@ -106,8 +106,8 @@ h4 {
     margin: 2em 2em .5em 1.5em;
     padding: 0 0 0 0.5em;
 		
-		border-top: 1px solid #bb8;
-    border-left: 1px solid #bb8;
+		border-top: 1px solid #4b3832;
+    border-left: 1px solid #4b3832;
     background-color: white;
     color: #430;
 }
