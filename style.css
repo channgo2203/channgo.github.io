@@ -69,11 +69,10 @@ li {
 
 h1 {
     font-family: arial, helvetica, sans-serif;
-    font-size: 160%;
     padding: 0.3em 0.6em;
     margin: 0.5em 0.5em 0 0.5em;
-    border-left: 2px solid #bbe;
-    border-top: 2px solid #bbe;
+    
+    
     background-color: #e8e8ff;
 }
 
@@ -83,8 +82,7 @@ h2 {
     padding: 0.2em 0.4em;
     margin: 2em 0 1em 0;
 
-    border-left: 1px solid #c99;
-    border-top: 1px solid #c99;
+   
     background-color: #fff0f0;
     color: #312;
 }
@@ -95,8 +93,6 @@ h3 {
     padding: 0.2em 0.4em;
     margin: 2em 1em 1em 1em;
 
-    border-left: 1px solid #3a3;
-    border-top: 1px solid #3a3;
     background-color: #e0f8d0;
     color: #030;
 }
