@@ -1,7 +1,7 @@
 
 body {
   	margin: 60px auto; 
-		width: 80%; 
+		width: 72%; 
 }
 
 header {
@@ -60,7 +60,7 @@ table {
 
 
 ul {
-    margin: 0 0 0 2em;
+    margin: 0 0 0 1em;
 }
 
 li {
@@ -74,8 +74,8 @@ h1 {
     margin: 2em 0 1em 0;
 
    
-    background-color: #be9b7b;
-    color: white;
+    background-color: #8b9dc3;
+    color: #312;
 }
 
 
