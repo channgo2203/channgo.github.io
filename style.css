@@ -69,12 +69,15 @@ li {
 
 h1 {
     font-family: arial, helvetica, sans-serif;
-    padding: 0.3em 0.6em;
-    margin: 0.5em 0.5em 0 0.5em;
-    
-    
-    background-color: #d9e5f3;
+    font-size: 160%;
+    padding: 0.2em 0.4em;
+    margin: 2em 0 1em 0;
+
+   
+    background-color: #fff0f0;
+    color: #312;
 }
+
 
 h2 {
     font-family: arial, helvetica, sans-serif;
