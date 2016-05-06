@@ -86,7 +86,7 @@ h2 {
 
    	border-left: 1px solid #c99;
     border-top: 1px solid #c99;
-    background-color: #be9b7b;
+    background-color: white;
     color: #312;
 }
 
@@ -98,7 +98,7 @@ h3 {
 		
 		border-left: 1px solid #3a3;
     border-top: 1px solid #3a3;
-    background-color: #fff4e6;
+    background-color: white;
     color: #030;
 }
 
@@ -108,7 +108,7 @@ h4 {
 		
 		border-top: 1px solid #bb8;
     border-left: 1px solid #bb8;
-    background-color: #fff4e6;
+    background-color: white;
     color: #430;
 }
 
